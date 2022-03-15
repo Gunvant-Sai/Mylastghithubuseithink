@@ -1,0 +1,29 @@
+#Yeah{
+    margin-top: 0px;
+    font-size: 34px;
+    width: 100%;
+}
+
+#Yeah12{
+  color: black;
+  font-size: 17px;
+}
+
+#BIG {
+font-size: 1.25pc;
+}
+
+#Object {
+  width: 30%;
+}
+
+#GO {
+  font-size: 1.13pc;
+}
+
+canvas {
+  border: 2px Solid white;
+  border-radius: 10px;
+  margin-top: 130px;
+  box-shadow: 5px 5px 5px black;
+}
